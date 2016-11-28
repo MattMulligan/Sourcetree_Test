@@ -1,4 +1,8 @@
 ***TEST FILE FOR VERSION CONTROL TEST***
 <LINE1>this line added before initial commit to github repo</LINE1>
 <LINE2>this line was added by the 2nd user when both had sourcetree open</LINE2>
+<LINE3>this line is added by user 1 after pulling user 2 changes. after this is pushed, user 2 will try and add line 4 without pulling this change down</LINE3>
 <LINE4>this is an addition by user 2 without syncing the line 3 changes from user 1 to test conflict</LINE4>
+
+
+
