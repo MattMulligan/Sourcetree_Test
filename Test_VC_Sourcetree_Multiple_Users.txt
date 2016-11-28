@@ -1,2 +1,3 @@
 ***TEST FILE FOR VERSION CONTROL TEST***
 <LINE1>this line added before initial commit to github repo</LINE1>
+<LINE2>this line was added by the 2nd user when both had sourcetree open</LINE2>
